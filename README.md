@@ -4,8 +4,6 @@
     <strong>Passionate and ambitious, becoming qualified and skilled is my main objective.</strong></p>
 </div>
 
-<br>
-
 ### About Me
 - 📖 2nd year Bachelor Game Programming at Bellecour École
 - 🕹 Unity and Unreal Engine developper
