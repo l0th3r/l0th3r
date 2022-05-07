@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hello, I'm Cosmo (l0th3r) 🧑‍💻</h1>
+    <h1>Hello, I'm Cosmo 🧑‍💻</h1>
     <p>Junior programmer. Love learning and understanding.<br>
     <strong>Passionate and ambitious, becoming qualified and skilled is my main objective.</strong></p>
 </div>
@@ -12,6 +12,9 @@
 - 🔒 Learning cybersecurity
 - 🌐 Frontend and Backend developper
 - ☄️ Former graphic designer
+
+### Some Github stats
+![l0th3r stats](https://github-readme-stats.vercel.app/api?username=l0th3r&theme=nord)
 
 ### My Portefolio
 [✨ iamcosmo.com](http://iamcosmo.com)
@@ -29,9 +32,10 @@
 <code><img alt="Git" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img alt="Vim editor" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 
-
 > **Web and framework** <br>
 <code><img alt="Javascript" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="Node JS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img alt="React JS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img alt="Express JS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0th3r&layout=compact&theme=nord)
