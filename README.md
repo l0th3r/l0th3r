@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hello, I'm Cosmo 🧑‍💻</h1>
+    <h1>Hello, I'm Cosmo (l0th3r) 🧑‍💻</h1>
     <p>Junior programmer. Love learning and understanding.<br>
     <strong>Passionate and ambitious, becoming qualified and skilled is my main objective.</strong></p>
 </div>
