@@ -14,7 +14,7 @@
 - ☄️ Former graphic designer
 
 ### My Portefolio
-[✨ iamcosmo.com](http://iamcosmo.com NOT UPDATED)
+[✨ iamcosmo.com (NOT UP TO DATE)](http://iamcosmo.com)
 
 ### Languages and technologies
 > **Programming** <br>
