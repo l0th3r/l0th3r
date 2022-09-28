@@ -16,7 +16,7 @@
 ![l0th3r stats](https://github-readme-stats.vercel.app/api?username=l0th3r&theme=nord)
 
 ### My Portefolio
-[✨ iamcosmo.com](http://iamcosmo.com)
+[✨ iamcosmo.com](http://iamcosmo.com NOT UPDATED)
 
 ### Languages and technologies
 > **Programming** <br>
