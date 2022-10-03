@@ -7,9 +7,9 @@
 ### About Me
 - 📖 2nd year Bachelor Game Programming at Bellecour École
 - 🕹 Unity and Unreal Engine developper
+- 🥽 XR developper
 - ⚙️ Want to dive more in low-level tech
 - 🖼 Learning graphic rendering with OpenGL and Vulkan
-- 🔒 Learning cybersecurity
 - 🌐 Frontend and Backend developper
 - ☄️ Former graphic designer
 
