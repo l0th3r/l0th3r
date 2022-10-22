@@ -10,7 +10,7 @@
 - 📖 3nd year Bachelor Game Programming at Bellecour École
 - ⚙️ Want to dive more in low-level tech
 - 🖼 Learning graphic rendering with OpenGL and Vulkan
-- 🌐 Frontend and Backend developper
+- 🌐 Frontend and Backend web developper
 - ☄️ Former graphic designer
 
 ### My Portefolio
