@@ -13,7 +13,7 @@
 - 🌐 Frontend and Backend web developper
 - ☄️ Former graphic designer
 
-### My Portefolio
+### My Portfolio
 [✨ iamcosmo.com (NOT UP TO DATE)](http://iamcosmo.com)
 
 ### Languages and technologies
