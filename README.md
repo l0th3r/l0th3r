@@ -13,9 +13,6 @@
 - 🌐 Frontend and Backend web developper
 - ☄️ Former graphic designer
 
-### My Portfolio
-[✨ iamcosmo.com (NOT UP TO DATE)](http://iamcosmo.com)
-
 ### Languages and technologies
 > **Programming** <br>
 <code><img alt="C Language" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
