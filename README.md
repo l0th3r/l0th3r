@@ -6,11 +6,11 @@
 
 ### About Me
 - 🕹 Unity and Unreal Engine developper
-- 🥽 XR developper
+- 🥽 XR developer
 - 🖼 Learning graphic rendering with OpenGL
 - 📖 3nd year Bachelor Game Programming at Bellecour École
 - ⚙️ Want to dive more in low-level tech
-- 🌐 Frontend and Backend web developper
+- 🌐 Frontend and Backend web developer
 - ☄️ Former graphic designer
 
 ### Languages and technologies
