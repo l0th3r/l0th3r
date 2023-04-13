@@ -5,7 +5,7 @@
 </div>
 
 ### About Me
-- 🕹 Unity and Unreal Engine developper
+- 🕹 Unity and Unreal Engine developer
 - 🥽 XR developer
 - 🖼 Learning graphic rendering with OpenGL
 - 📖 3nd year Bachelor Game Programming at Bellecour École
