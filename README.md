@@ -7,11 +7,10 @@
 ### About Me
 - 🔐 Cybersecurity student
 - 🖼 Learning graphic rendering with OpenGL
-- ⚙️ Want to dive more in low-level tech
 - 🕹 Unity and Unreal Engine developer
 - 🥽 XR developer
-- 📖 Bachelor Game Programming at Bellecour École
-- 🌐 Frontend and Backend web developer
+- 📖 Bachelor Game Programming
+- 🌐 fullstack web developer
 - ☄️ Former graphic designer
 
 ### Languages and technologies
